@@ -134,7 +134,7 @@ end
 function move_turret()
 	--don't move it if turret is exploding
 	if not turret_hit then		
-		-- check joystick d-pad 
+		-- check joystick (hat - not dpad, see Pi version) 
 		function love.joystickhat( joystick, hat, direction )
 			dir = direction
 		end
