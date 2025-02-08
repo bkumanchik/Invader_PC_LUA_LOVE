@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://uwoc8a8vjpl"
+path="res://.godot/imported/boom.wav-35a1b20ea74788af265afeea6b328686.sample"
+
+[deps]
+
+source_file="res://Game Engine Dev/LUA with LÖVE/projects/Invader_LUA_LÖVE/sounds/boom.wav"
+dest_files=["res://.godot/imported/boom.wav-35a1b20ea74788af265afeea6b328686.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

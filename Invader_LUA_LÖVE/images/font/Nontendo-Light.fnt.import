@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://ctuq47mcqjan"
+path="res://.godot/imported/Nontendo-Light.fnt-25742c392642efa1c456d8fc0da41a6a.fontdata"
+
+[deps]
+
+source_file="res://Game Engine Dev/LUA with LÖVE/projects/Invader_LUA_LÖVE/images/font/Nontendo-Light.fnt"
+dest_files=["res://.godot/imported/Nontendo-Light.fnt-25742c392642efa1c456d8fc0da41a6a.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2

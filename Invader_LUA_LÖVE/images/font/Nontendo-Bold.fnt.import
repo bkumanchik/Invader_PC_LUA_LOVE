@@ -1,0 +1,17 @@
+[remap]
+
+importer="font_data_bmfont"
+type="FontFile"
+uid="uid://bf5pwwc3bayuo"
+path="res://.godot/imported/Nontendo-Bold.fnt-6084fe1550eebe04e43a5bbb0039415a.fontdata"
+
+[deps]
+
+source_file="res://Game Engine Dev/LUA with LÖVE/projects/Invader_LUA_LÖVE/images/font/Nontendo-Bold.fnt"
+dest_files=["res://.godot/imported/Nontendo-Bold.fnt-6084fe1550eebe04e43a5bbb0039415a.fontdata"]
+
+[params]
+
+fallbacks=[]
+compress=true
+scaling_mode=2
